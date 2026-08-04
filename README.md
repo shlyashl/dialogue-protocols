@@ -74,6 +74,7 @@ Natural entry and exit examples:
 | [`default`](protocols/default.md) | The special rules no longer help. | "Back to default — just answer normally." |
 
 No slash commands or product features are assumed, and variants of these phrases are valid.
+See a complete short transcript in the [`definitions` example](examples/definitions-example.md).
 Simply using a protocol does not require logging anything. To test one deliberately, use the
 lightweight [`testing and improvement guide`](notes/testing.md).
 
