@@ -6,6 +6,8 @@ context queries.*
 > **Experimental status:** This is a candidate protocol, not an accepted protocol or a proven
 > implementation. Accepting it in a session does not promote it within this project.
 
+**Candidate revision:** `v0.2` (revised after Field Trial 001).
+
 ## Motivating problem
 
 An orchestrator working across many repositories repeatedly spends context rediscovering each
