@@ -69,6 +69,7 @@ Natural entry and exit examples:
 | Protocol | Observable need | What a person might say |
 |---|---|---|
 | [`definitions`](protocols/definitions.md) | New concepts keep obscuring the current one. | "I keep losing the thread. Let's use definitions — one brick at a time. What is a query log?" |
+| [`focus`](protocols/focus.md) | Adjacent observations keep displacing the current working step. | "Focus — current step only. Check whether this change fixes the failing test." |
 | [`resonator`](protocols/resonator.md) | A rough intuition needs reconstruction and criticism. | "I have a rough intuition. Use resonator: reconstruct it, let me confirm it, then find the mechanism and load-test it." |
 | [`lecture`](protocols/lecture.md) | A long explanation must be easy to follow by ear. | "I'm going for a walk. Use lecture: one coherent, audio-friendly explanation of attention, about 20 minutes." |
 | [`default`](protocols/default.md) | The special rules no longer help. | "Back to default — just answer normally." |
