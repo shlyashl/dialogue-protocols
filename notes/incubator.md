@@ -557,3 +557,19 @@ possible review plan.
 
 **OPEN QUESTION:** Should closure happen automatically, be proposed by the model, or start only
 at the human's request?
+
+### F7 — Dialogue Paper
+
+**ID:** F7  
+**ORIGIN:** SYNTHESIS  
+**SCOPE:** CORE  
+**STATUS:** TEST
+
+**IDEA:** Use a portable, self-contained handoff contract to transfer intent, target, authority,
+constraints, completion conditions, and evidence expectations across meaningful role, session,
+or environment boundaries. The [experimental candidate](candidates/dialogue-paper.md) defines
+thread rounds, preflight, objections, idempotency, and compact type-specific responses.
+
+**OPEN QUESTION:** Across substantially different agents and environments, does the contract
+preserve intent and prevent repeated or unauthorized action without adding more ceremony than it
+removes?
