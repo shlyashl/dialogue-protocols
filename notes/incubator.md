@@ -557,3 +557,19 @@ possible review plan.
 
 **OPEN QUESTION:** Should closure happen automatically, be proposed by the model, or start only
 at the human's request?
+
+
+### F6 — Repository Steward
+
+**ID:** F6  
+**ORIGIN:** SYNTHESIS  
+**SCOPE:** CORE  
+**STATUS:** TEST
+
+**IDEA:** Let a fresh disposable session build or refresh a compact, source-backed projection of
+one repository, keep committed base state separate from a live working-tree overlay, and answer
+narrow context queries for an external orchestrator. See the
+[experimental candidate contract](candidates/repository-steward.md).
+
+**OPEN QUESTION:** Can fresh sessions reconstruct approximately the same operational understanding
+while keeping validation cheaper than repeated full repository inspection?
