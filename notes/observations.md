@@ -7,6 +7,10 @@ produced it. Anti-patterns are first-class — knowing what breaks is half the m
 
 ## Observations
 
+- **Delivery is not receipt.** A model may treat information as shared context simply because
+  it appeared in an answer. When unsolicited material feels irrelevant, a human may skim or
+  skip it; later turns may then rely on information the human never absorbed. Limiting
+  unsolicited expansion can protect synchronization as well as attention.
 - **A protocol you can't exit is a cage.** Every mode needs a cheap, explicit exit signal.
   Modes that only enter accumulate into a rulebook the human can no longer hold.
 - **Sequence beats mode.** The value of `resonator` is not resonance; it's *resonate then
